@@ -1,1 +1,1 @@
-# command
+git commands are config,add
