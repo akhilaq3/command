@@ -1,1 +1,1 @@
-git commands are config,add
+commands
