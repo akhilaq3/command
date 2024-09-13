@@ -1,1 +1,2 @@
-devops is combination of both development and operation team
+devops is combination of both development and operation team.
+plan,code,build
